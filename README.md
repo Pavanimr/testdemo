@@ -1,2 +1,2 @@
 # testdemo
-authot:Pavani M R
+Author:Pavani M R
